@@ -1,4 +1,4 @@
-name: PR-Django CI (SQLite)
+name: Build-Dev-PR
 
 on:
   push:
